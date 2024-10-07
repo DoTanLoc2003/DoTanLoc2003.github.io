@@ -1,0 +1,33 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Sep 30, 2024, 9:23:37 PM
+    Author     : DOTANLOC
+*/
+
+.selection-bar{
+    text-align: center;
+}
+
+#divider {
+    font-weight: 150;
+}
+
+#active {
+    color:crimson;
+}
+
+nav > a {
+    text-decoration: none;
+    color: orange;
+}
+
+nav > a:hover {
+    text-decoration: underline;
+}
+
+nav {
+    font-size: 16pt;
+}
